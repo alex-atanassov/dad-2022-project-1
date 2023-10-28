@@ -8,6 +8,11 @@ The project consists in implementing a simple quiz app that fetches topics, ques
 
 **Deployed online version**: https://alex-atanassov.github.io/dad-2022-project-1/
 
+<div display="inline-block">
+<img src="https://github.com/alex-atanassov/dad-2022-project-1/assets/79805163/c6293728-f3f6-49eb-9ad3-69246a24dad1" width=78.7% />
+<img src="https://github.com/alex-atanassov/dad-2022-project-1/assets/79805163/2f8df21e-3dc6-415f-87f8-d722a4327594" width=19.5% />
+</div>
+
 ## Functionality
 
 In this application, the user can answer to quizzes that can concern several topics.<br />The user can select a topic from the **`Home page`**, which fetches the topics from https://dad-quiz-api.deno.dev/topics. This same page will start counting the questions answered and the correct answers, after the first question has been answered.
